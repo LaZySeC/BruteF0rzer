@@ -20,7 +20,7 @@ def main():
 
 
     print('By LaZy SeC')
-    print('Swiss hacking scene')
+    print
     print('Version 0.1')
     print
     charsets = ["abcdefghijklmnopqrstuvwxyz", "ABCDEFGHIJKLMNOPQRSTUVWXYZ", "abcdefghijklmnopqrstuvwxyzABDCEFGHIJKLMNOPQRSTUVWXYZ", "0123456789", "abcdefghijklmnopqrstuvwxyzABDCEFGHIJKLMNOPQRSTUVWXYZ0123456789", "abcdefghijklmnopqrstuvwxyz0123456789", " "]
@@ -31,7 +31,7 @@ def main():
     print("3: numbers")
     print("4: upper + lower + numbers")
     print("5: lower + numbers")
-    print("6: your own chatset")
+    print("6: your own charset")
     print("Enter the charset")
     charset_ = input("charset: ")
     charset = charsets[charset_]
